@@ -13,7 +13,7 @@ body {
 /* Article Title */
 
 .articleTitle {
-    width: 710px;
+    width: 100%;
 }
 
 .articleTitle h2 {
@@ -39,7 +39,7 @@ body {
 /* Article Text Content */
 
 .articleText {
-    width: 710px;
+    width: 100%;
     margin-top: 80px;
 }
 
