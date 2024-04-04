@@ -80,11 +80,11 @@
     font-style: normal;
 }
 
-
-.text-center {
-    text-align: center;
+.overpass-mono-bold {
+    font-family: "Overpass Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
 
-.content-center {
-    margin: 0 auto;
-}
+
