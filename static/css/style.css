@@ -10,12 +10,21 @@
 
 
 .articleContent {
-    margin-top: 710px;
-    width: 710px;
+    margin-top: 60px;
 }
 
 .articleContent p {
     font-size: 18px;
     font-weight: normal;
     line-height: 24px;
+}
+
+.articleImage {
+    margin-top: 30px;
+}
+
+.articleImage img {
+
+    width: 100%;
+
 }
